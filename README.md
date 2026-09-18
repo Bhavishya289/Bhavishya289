@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Singh Masand</h1>
 
 <h3 align="center">
-  Computer Science Student | Software Development | DSA | Big Data
+  CSE Student @ UPES | C++ & DSA | Software Development
 </h3>
+
+<p align="center">
+  Former Technical Intern @ Siemens EDA
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavishya-singh-masand-2874b022b">
