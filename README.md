@@ -75,36 +75,24 @@
 ## 🚀 Featured Projects
 
 ### 📄 Smart RAG System
-**PDF-Based Question Answering Tool**
+A PDF-based question-answering and information retrieval system using **TF-IDF and FAISS** for retrieving relevant information from uploaded documents.
 
-- Built a Retrieval-Augmented Generation pipeline for answering natural-language questions from PDF documents.
-- Implemented **TF-IDF** vectorization and **FAISS** similarity search.
-- Developed an interactive **Streamlit** interface with text chunking and semantic matching.
+**Tech Stack:** Python • Streamlit • Scikit-learn • FAISS • PyPDF
 
-**Technologies:** `Python` `FAISS` `TF-IDF` `Streamlit`
-
----
-
-### 🧠 Epilepsy Detection System
-**ML-Based Diagnostic Tool**
-
-- Developed an ML system for epilepsy detection using EEG signal data.
-- Implemented **SVM** and **Random Forest** classifiers.
-- Built a real-time **Streamlit dashboard** for visualization.
-- Used **MongoDB** for signal metadata storage and retrieval.
-
-**Technologies:** `Python` `Machine Learning` `MongoDB` `Streamlit`
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhavishya289/Smart-RAG-System)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://bhavishya-smart-rag.streamlit.app)
 
 ---
 
 ### 🏠 BunkBuddy
-**Hostel Review & Discovery Platform**
+A React-based hostel discovery and review platform featuring **hostel search, detailed accommodation pages, maps, ratings, facilities and an interactive user interface**.
 
-- Built a full-stack student accommodation platform.
-- Developed backend logic and RESTful API endpoints.
-- Added peer-to-peer verification and hostel review functionality.
+**Tech Stack:** React JS • JavaScript • React Router • Leaflet • Framer Motion
 
-**Technologies:** `React JS` `Tailwind CSS` `ExpressJS` `JavaScript`
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Bhavishya289/BunkBuddy)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel)](https://bunk-buddy-nu.vercel.app/)
+
+---https://bunk-buddy-nu.vercel.app/
 
 ---
 
