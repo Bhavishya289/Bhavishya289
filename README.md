@@ -48,30 +48,31 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills & Technologies
 
-### Programming Languages
-
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
-### Databases & Big Data
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
+### Databases & Data
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Apache Hive • Apache Spark • SQL**
+`SQL` • `Apache Spark` • `Apache Hive`
 
-### Tools & Platforms
-
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
-### Core Concepts
-
+### Core Areas
 `Data Structures & Algorithms` • `Big Data` • `Machine Learning`
 
 ---
